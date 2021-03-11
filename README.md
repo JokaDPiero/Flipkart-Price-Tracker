@@ -1,7 +1,8 @@
 # Flipkart-Price-Tracker
 
 This is a simple script which automates the products an user desires by getting their prices and also stores their best price.
-It is coded in [Python 3.5+](https://www.python.org/downloads/release/python-360/)
+It is coded in [Python 3.5+](https://www.python.org/downloads/release/python-360/) and I've used the firefox web driver to automate the results.
+You can also try with google or safari browser just download the chrome or safari web driver and do necessary configurations as done in flipkart_config.py file.
 
 #### Tracker Skills-
 *   Tracks prices of various products and creates a report in json format.
