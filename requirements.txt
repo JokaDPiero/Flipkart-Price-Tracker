@@ -1,0 +1,17 @@
+selenium
+time
+beautifulsoup4
+bs4
+certifi
+chardet
+colorama
+idna
+mongoengine
+pymongo
+python-dateutil
+requests
+selenium
+six
+soupsieve
+tqdm
+urllib3
